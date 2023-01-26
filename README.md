@@ -1,4 +1,4 @@
-### Olá, Bem-vindo ao meu Github! 😉👋
+### Olá, bem-vindo ao meu Github! 😉👋
 
  <h6 style="color: red">I’m currently studying : HTML, CSS, JavaScript - Jquery - Ajax - Node.js</h6>
  
