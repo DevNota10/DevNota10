@@ -23,12 +23,11 @@
 </div>
 </div>
 <br>
-  <div  align="center">
-   <a href="https://devnota10k.com/" target="_blank">
+  <div  align="center" >
+
 
    ![logo-dev](https://github.com/DevNota10/DevNota10/assets/123128237/859da878-afa2-45aa-a74f-9a75d197d137)
     
-   </a>
   </div>
   <br>
 
