@@ -2,6 +2,28 @@
  ### Seja bem-vindo!
  <h5>Sou o Kleber,
   <br>e estou feliz em receber você por aqui. Sinta-se à vontade para explorar meus projetos e contribuições. Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato. Obrigado pela visita e espero que encontre algo interessante por aqui!! 😉👋</h5>
+  <br>
+  <br>
+  
+  <div align="center"> 
+ 
+<div style="display: inline_block"><br>
+<h1 align="center">My Skills </h1>
+
+<img align="center" alt="icon-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Icon-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+<img align="center" alt="icon-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="icon-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+
+<img align="center" alt="icon-Js" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+          
+ <img align="center" alt="Icon-Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+<img align="center" alt="icon-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
+          
+          
+<img align="center" alt="icon-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+</div>
+</div>
   <div  align="center">
    <a href="https://devnota10k.com/" target="_blank">
     
@@ -9,6 +31,7 @@
     
    </a>
   </div>
+
 
 
  <h4>I’m currently studying : HTML, CSS, JavaScript, React, Node.js</h4>
@@ -26,26 +49,7 @@
 
 
 
-<div align="center"> 
- <br>
- 
-<div style="display: inline_block"><br>
-<h2 align="center">My skills </h2>
 
-<img align="center" alt="icon-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Icon-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-<img align="center" alt="icon-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="icon-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-
-<img align="center" alt="icon-Js" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-          
- <img align="center" alt="Icon-Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-<img align="center" alt="icon-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
-          
-          
-<img align="center" alt="icon-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-</div>
-</div>
 
   <br>
   <div  align="center" >
