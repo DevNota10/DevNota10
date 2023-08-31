@@ -2,6 +2,14 @@
  ### Seja bem-vindo!
  <h5>Sou o Kleber,
   <br>e estou feliz em receber você por aqui. Sinta-se à vontade para explorar meus projetos e contribuições. Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato. Obrigado pela visita e espero que encontre algo interessante por aqui!! 😉👋</h5>
+  <div  align="center">
+   <a href="https://devnota10k.com/" target="_blank">
+    
+   ![logo-2](https://github.com/DevNota10/DevNota10/assets/123128237/8631a6f2-41ee-4033-a4fd-22dc37c512c9)
+    
+   </a>
+  </div>
+
 
  <h4>I’m currently studying : HTML, CSS, JavaScript, React, Node.js</h4>
  <br>
@@ -15,20 +23,11 @@
 
 <br>
 <br>
-  <div  align="center">
-  
-  ![T2jh](https://github.com/DevNota10/DevNota10/assets/123128237/416a467d-9320-4a45-aaa4-762071aece45)
-  
- </div>
-
 
 
 
 <div align="center"> 
  <br>
-
- 
- 
  
 <div style="display: inline_block"><br>
 <h2 align="center">My skills </h2>
