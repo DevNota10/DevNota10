@@ -2,8 +2,6 @@
  ### Seja bem-vindo!
  <h5>Sou o Kleber,
   <br>e estou feliz em receber você por aqui. Sinta-se à vontade para explorar meus projetos e contribuições. Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato. Obrigado pela visita e espero que encontre algo interessante por aqui!! 😉👋</h5>
-  <br>
-  <br>
   
   <div align="center"> 
  
@@ -24,17 +22,19 @@
 <img align="center" alt="icon-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
 </div>
 </div>
+<br>
   <div  align="center">
    <a href="https://devnota10k.com/" target="_blank">
-    
-   ![logo-2](https://github.com/DevNota10/DevNota10/assets/123128237/8631a6f2-41ee-4033-a4fd-22dc37c512c9)
+
+   ![logo-dev](https://github.com/DevNota10/DevNota10/assets/123128237/859da878-afa2-45aa-a74f-9a75d197d137)
     
    </a>
   </div>
+  <br>
 
 
 
- <h4>I’m currently studying : HTML, CSS, JavaScript, React, Node.js</h4>
+ <h4 align="center" > I’m currently studying : JavaScript, React, Node.js</h4>
  <br>
 
 
@@ -45,15 +45,11 @@
 </div>
 
 <br>
-<br>
-
-
 
 
 
   <br>
   <div  align="center" >
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href ="mailto:dev.nota10.k@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
