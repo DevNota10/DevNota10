@@ -3,7 +3,7 @@
  <h5>Sou o Kleber,
   <br>e estou feliz em receber você por aqui. Sinta-se à vontade para explorar meus projetos e contribuições. Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato. Obrigado pela visita e espero que encontre algo interessante por aqui!! 😉👋</h5>
 
- <h4>I’m currently studying : HTML, CSS, JavaScript - Jquery - Ajax - Node.js</h4>
+ <h4>I’m currently studying : HTML, CSS, JavaScript, React, Node.js</h4>
  <br>
 
 
