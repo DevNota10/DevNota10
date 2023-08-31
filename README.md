@@ -13,16 +13,22 @@
 </div>
 </div>
 
-
- 
+<br>
+<br>
+  <div  align="center">
+  
+  ![T2jh](https://github.com/DevNota10/DevNota10/assets/123128237/416a467d-9320-4a45-aaa4-762071aece45)
+  
+ </div>
 
 
 
 
 <div align="center"> 
  <br>
+
  
-  ![T2jh](https://github.com/DevNota10/DevNota10/assets/123128237/416a467d-9320-4a45-aaa4-762071aece45)
+ 
  
 <div style="display: inline_block"><br>
 <h2 align="center">My skills </h2>
