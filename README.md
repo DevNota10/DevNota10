@@ -1,6 +1,6 @@
 
  ### Seja bem-vindo!
- <h4> Eu sou Kleber,
+ <h4> Eu sou o Kleber,
   <br>e estou feliz em receber você por aqui. Sinta-se à vontade para explorar meus projetos e contribuições. Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato. Obrigado pela visita e espero que encontre algo interessante por aqui!! 😉👋</h4>
   
   <div align="center"> 
